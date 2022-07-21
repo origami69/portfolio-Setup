@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-Setup/static/css/main.45b5a868.css",
+    "main.js": "/portfolio-Setup/static/js/main.f73201c2.js",
+    "static/js/787.c7d50af8.chunk.js": "/portfolio-Setup/static/js/787.c7d50af8.chunk.js",
+    "static/media/pexels-francesco-ungaro-96428.jpg": "/portfolio-Setup/static/media/pexels-francesco-ungaro-96428.4f52be20d539a338f0fe.jpg",
+    "static/media/pexels-pixabay-416160.jpg": "/portfolio-Setup/static/media/pexels-pixabay-416160.0ea5033dda06655a29ea.jpg",
+    "index.html": "/portfolio-Setup/index.html",
+    "main.45b5a868.css.map": "/portfolio-Setup/static/css/main.45b5a868.css.map",
+    "main.f73201c2.js.map": "/portfolio-Setup/static/js/main.f73201c2.js.map",
+    "787.c7d50af8.chunk.js.map": "/portfolio-Setup/static/js/787.c7d50af8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b5a868.css",
+    "static/js/main.f73201c2.js"
+  ]
+}
